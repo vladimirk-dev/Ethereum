@@ -1,3 +1,5 @@
-## Crowdsale Smart Contract
-This project contains dApp files for Crowdsale Smart Contract on Ethereum.
-See full step-by-step [Tutorial Article](https://medium.com/@vovakuzmenkov/full-stack-crowdfunding-smart-contract-development-15ed139cde06).
+Fully functional truffle box project.
+
+In order to deploy the contract on Ropsten or Mainnet, edit truffle.js endpoint accordingly. 
+
+Also ensure provider in truffle.js points to correct Ethereum account credentials.
